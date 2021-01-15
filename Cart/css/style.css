@@ -1,0 +1,62 @@
+
+h2
+{
+            text-align: center;
+            color: #66afe9;
+            background-color: #efefef;
+            padding-right: 48%;
+            padding-left: 45%
+
+
+
+}
+
+.container
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;   
+}
+
+.product
+{
+    
+    width: 400px;
+    
+    padding:10px;
+    padding-left: 100px;
+    background-color: #efefef;
+   
+    border-radius:  4px;
+    margin: 40px;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.title2
+{
+            text-align: center;
+            color: #66afe9;
+            background-color: #efefef;
+            padding-right: 48%;
+            padding-left: 45%
+}
+
+.table-responsive
+{
+    width: 120%;
+    border-collapse: collapse;
+    padding-left: 17%;
+}
+.table td,.table th
+{
+    padding: 12px 15px;
+    border:1px solid #ddd;
+    text-align: center;
+    font-size: 16px;
+}
+.table th
+{
+    background-color: darkblue;
+    color:#ffffff;
+}
